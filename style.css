@@ -1,0 +1,26 @@
+ *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+ }
+
+ .fundo{
+    background-color: blue;
+    width: 660px;
+    margin: 50px auto;
+    padding: 5PX;
+ }
+.flex{
+    display: flex;
+}
+
+.amarelo{
+    background-color: yellow;
+    padding: 80px;
+    margin: 10px;
+    border-radius: 15px;
+}
+
+.esticar{
+    padding-right: 270px;
+}
