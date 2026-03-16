@@ -15,12 +15,21 @@
 }
 
 .amarelo{
-    background-color: yellow;
     padding: 80px;
     margin: 10px;
     border-radius: 15px;
+    text-align: center;
+    background-image: url("https://gifdb.com/images/high/neymar-jr-football-funny-bleh-nhv3dmvzp0mhzyyg.gif"); 
+    color: white;
+    background-repeat:no-repeat;
+    background-size: cover;
+    background-position: center;
 }
 
 .esticar{
     padding-right: 270px;
+}
+
+.alongar{
+    padding-bottom: 270px;
 }
